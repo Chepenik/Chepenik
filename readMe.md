@@ -6,7 +6,7 @@ Web Developer, Bitcoiner, & Meme Connoisseur
 
 * 🌍  I'm based in Cambridge, MA
 * ✉️  You can contact me at [chep@nodeless.io](mailto:chep@nodeless.io)
-* 🚀  I'm currently working on [Habit-Chain](https://chepython.streamlit.app/)
+* 🚀  I'm currently working on [Chepython](https://chepython.streamlit.app/)
 * 🧠  I'm learning how to contribute to open-software development
 
 ### Skills
