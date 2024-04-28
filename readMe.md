@@ -1,13 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Conor Chepenik
 ======================================================================================================================================
 
-Web Developer, Bitcoiner, & Meme Connoisseur
---------------------------------------------
-
-* 🌍  I'm based in Cambridge, MA
-* ✉️  You can contact me at [chep@nodeless.io](mailto:chep@nodeless.io)
-* 🚀  I'm currently working on [Chepython](https://chepython.streamlit.app/)
-* 🧠  I'm learning how to contribute to open-software development
+I believe in Freedom Tech
 
 ### Skills
 
